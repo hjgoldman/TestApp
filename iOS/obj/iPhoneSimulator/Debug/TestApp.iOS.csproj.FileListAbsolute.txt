@@ -1,0 +1,12 @@
+/Users/haydengoldman/Desktop/TestApp/iOS/bin/iPhoneSimulator/Debug/TestApp.iOS.exe
+/Users/haydengoldman/Desktop/TestApp/iOS/bin/iPhoneSimulator/Debug/TestApp.iOS.pdb
+/Users/haydengoldman/Desktop/TestApp/iOS/bin/iPhoneSimulator/Debug/TestApp.dll
+/Users/haydengoldman/Desktop/TestApp/iOS/bin/iPhoneSimulator/Debug/TestApp.pdb
+/Users/haydengoldman/Desktop/TestApp/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/haydengoldman/Desktop/TestApp/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/actool/_PartialAppManifest.items
+/Users/haydengoldman/Desktop/TestApp/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/actool/_BundleResourceWithLogicalName.items
+/Users/haydengoldman/Desktop/TestApp/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/optimized/
+/Users/haydengoldman/Desktop/TestApp/iOS/obj/iPhoneSimulator/Debug/TestApp.iOS.csprojResolveAssemblyReference.cache
+/Users/haydengoldman/Desktop/TestApp/iOS/obj/iPhoneSimulator/Debug/TestApp.iOS.csproj.CoreCompileInputs.cache
+/Users/haydengoldman/Desktop/TestApp/iOS/obj/iPhoneSimulator/Debug/TestApp.iOS.exe
+/Users/haydengoldman/Desktop/TestApp/iOS/obj/iPhoneSimulator/Debug/TestApp.iOS.pdb

@@ -1,0 +1,5 @@
+/Users/haydengoldman/Desktop/TestApp/TestApp/bin/Debug/TestApp.dll
+/Users/haydengoldman/Desktop/TestApp/TestApp/bin/Debug/TestApp.pdb
+/Users/haydengoldman/Desktop/TestApp/TestApp/obj/Debug/TestApp.csproj.CoreCompileInputs.cache
+/Users/haydengoldman/Desktop/TestApp/TestApp/obj/Debug/TestApp.dll
+/Users/haydengoldman/Desktop/TestApp/TestApp/obj/Debug/TestApp.pdb
